@@ -1,19 +1,21 @@
-💫 About Me:
-👋 Hi there! I'm Harsh Singh Thakur, a passionate Tech-Geek currently pursuing a B.Tech in Artificial Intelligence and Machine Learning. I specialize in frontend development while also being deeply interested in Java development. I love building responsive, user-centric web applications that deliver high-quality user experiences, while leveraging Java to create efficient and scalable backend systems.
+# 💫 About Me
+👋 Hello! I'm **Harsh Singh Thakur**, a passionate **Tech-Geek** currently pursuing a B.Tech in Artificial Intelligence and Machine Learning. I specialize in frontend development while also being deeply interested in Java development. I love building responsive, user-centric web applications that deliver high-quality user experiences, while leveraging Java to create efficient and scalable backend systems.
 
-Expertise
-💻 Frontend Development: Crafting interactive and dynamic user interfaces using HTML, CSS, JavaScript, React, and other modern web technologies.
-🚀 Java Development: Building robust and scalable applications with Java, ensuring high performance for backend solutions.
-☁️ Cloud & Databases: Experienced with AWS, MySQL, and MongoDB for deploying and managing scalable infrastructures.
+## Expertise
+💻 **Frontend Development**: Crafting interactive and dynamic user interfaces using HTML, CSS, JavaScript, React, and other modern web technologies.  
+🚀 **Java Development**: Building robust and scalable applications with Java, ensuring high performance for backend solutions.  
+☁️ **Cloud & Databases**: Experienced with AWS, MySQL, and MongoDB for deploying and managing scalable infrastructures.
 
-Contact
-Feel free to connect with me on LinkedIn(www.linkedin.com/in/harsh-singh-thakur) to learn more about my projects, collaborate, or discuss anything tech-related. I'm always open to new ideas and opportunities to innovate!
+## Contact
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harshsinghthakur1308) to learn more about my projects, collaborate, or discuss anything tech-related. I'm always open to new ideas and opportunities to innovate!
 
-## 🌐 Connect with me:
+---
+
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshsinghthakur1308)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harsh2700)
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
